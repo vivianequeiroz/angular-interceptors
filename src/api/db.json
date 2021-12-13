@@ -1,4 +1,25 @@
 {
   "users": [],
-  "books": []
+  "books": [
+    {
+      "title": "Comunicação não violenta",
+      "author": "Marshall b. Rosenberg",
+      "id": 1
+    },
+    {
+      "title": "O homem mais rico da Babilônia",
+      "author": "George S Clason",
+      "id": 2
+    },
+    {
+      "title": "Introdução à Lógica",
+      "author": "Cezar A. Mortari",
+      "id": 3
+    },
+    {
+      "title": "Rápido e Devagar",
+      "author": "Daniel Kahneman",
+      "id": 4
+    }
+  ]
 }
