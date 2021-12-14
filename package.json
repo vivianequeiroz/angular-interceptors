@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "dev": "TAILWIND_MODE=watch postcss -i tailwind.css -o build.css --watch",
     "test": "ng test",
     "api": "json-server-auth src/api/db.json -r src/api/routes.json"
   },
